@@ -12,3 +12,6 @@
 ## Model
 There are five models based on Biderectional LSTM and GloVe Embeddings.<br>
 Models have greater accuracy **3-4%** on average then [related work based on CNN](https://sentic.net/deep-learning-based-personality-detection.pdf).
+
+### Other models
+Tried training more modern architecture such as BERT([Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)) but model learned very simple rule that predict always 1.
