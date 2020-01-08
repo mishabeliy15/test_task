@@ -1,4 +1,4 @@
-#  Personality Detection by LSTM
+#  Personality Detection by Bidirectional LSTM
 ### Data:
 - [Essays](http://web.archive.org/web/20160316113804/http://mypersonality.org/wiki/lib/exe/fetch.php?media=wiki:essays.zip)
 - [GloVe Embeddings Common Crawl (840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB download)](http://nlp.stanford.edu/data/glove.840B.300d.zip)
