@@ -10,7 +10,7 @@
 - Filtered outliers with a few words and too much words(100 <= number of words <= 500)
 
 ## Model
-There are five models based on Biderectional LSTM and GloVe Embeddings.<br>
+There is the model based on Bidirectional LSTM and GloVe Embeddings with output that contains 5 sigmoids.<br>
 Models have greater accuracy **3-4%** on average then [related work based on CNN](https://sentic.net/deep-learning-based-personality-detection.pdf).
 
 ### Other models
